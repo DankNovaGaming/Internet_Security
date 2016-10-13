@@ -2,6 +2,16 @@
 * Find 5 articles describing an Internet security breach within this year and submit the urls
 * for each url find some new term relating to security and get a definition of it 
 
+http://motherboard.vice.com/read/another-day-another-hack-7-million-emails-and-hashed-passwords-for-minecraft
+
+http://thehackernews.com/2016/09/yahoo-data-breach-billion.html
+
+http://thehackernews.com/2016/09/ddos-attack-iot.html DDOS-DDoS is a type of DOS attack where multiple compromised systems, which are often infected with a Trojan
+
+http://www.hackmageddon.com/2016/09/28/1-15-september-2016-cyber-attacks-timeline/ Cyber attacks - an attempt by hackers to damage or destroy a computer network or system.
+
+http://motherboard.vice.com/read/427-million-myspace-passwords-emails-data-breach "Leak"?
+
 Now find definitions for
   * Advanced Persistent Threat - An advanced persistent threat (APT) is a network attack in which an unauthorized person gains access to a network and stays there undetected for a long period of time.
   * backdoor - A back door is a means of access to a computer program that bypasses security mechanisms.
